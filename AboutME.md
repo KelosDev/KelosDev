@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KelosDev
+- 👋 Hi, I’m Giampietro Piras
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning: JavaScript, HTML, CSS, MySQL, NoSQL, PHP, Git, AngularJS, ReactJS, CMS, Linux Server, Computer networks, Architectures and web app, C, Cyber Security, RESTful API, Digital marketing, UX/UI design
 - 💞️ I’m looking to collaborate on ...
