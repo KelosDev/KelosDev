@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Jarrian+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Giampietro and Welcome to my Profile! animated typed out" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Giampietro+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Giampietro and Welcome to my Profile! animated typed out" width="100%"/>
 <img src="./assets/borderseparator.gif" width="100%"/>
 
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
@@ -30,10 +30,8 @@
 
 <div align="center">
   <h2> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h2><br>
-  <img src="https://upload.wikimedia.org/wikipedia/it/thumb/4/47/Logo_PoliTo_dal_2021_blu.png/800px-Logo_PoliTo_dal_2021_blu.png"/>
+  <img src="https://www.unidformazione.com/wp-content/uploads/2018/05/polito-politecnico-di-torino.jpg"/>
   <img src="https://0701.static.prezi.com/preview/v2/etrkoyr5gwcz5qqpyp4gci4y5t6jc3sachvcdoaizecfr3dnitcq_3_0.png"/>
-  <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/> 
 </div></br>
 
 <h2></h2>
@@ -61,7 +59,5 @@
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
   
 <br>
-
-![GodkingJay's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=godkingjay&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
 
 </br>
