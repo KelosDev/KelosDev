@@ -47,8 +47,8 @@
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
   
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,babel,nodejs,webpack,html,css,sass,tailwind,js,md,mysql,bootstrap,react,redux,angular,php,linux,regex,svg,ts,vscode,netlify,figma,ai,ps,pr" alt="skills logos" /> <br>
-   <img src="https://skillicons.dev/icons?i=git,github,githubactions,js,ts,html,css,sass,tailwind,bootstrap,mui,react,next,redux,angular,nodejs,php,linux,regex,vscode,netlify,firebase,figma,babel,webpack,ai,ps,pr" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,js,ts,html,css,sass,tailwind,bootstrap,mui,react,next,redux,angular,nodejs,php,linux,regex,vscode,netlify,firebase,figma,babel,webpack,ai,ps,pr" alt="skills logos" /> <br>
+   
   
 </div></br>
 
