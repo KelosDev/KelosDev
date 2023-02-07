@@ -1,9 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Giampietro+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Giampietro and Welcome to my Profile! animated typed out" width="100%"/>
 <img src="./assets/borderseparator.gif" width="100%"/>
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-
 <p align="center"> 
   <b>Profile Views</b><br>
   <img src="https://profile-counter.glitch.me/KelosDev/count.svg" />
