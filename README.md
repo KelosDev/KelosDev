@@ -30,9 +30,8 @@
 
 <div align="center">
   
-  <h2> <strong> ⚙️ Technologies and Skills </strong></h2><br>
+  <h2> <strong> ⚙️ Technologies, Languages, Frameworks and Tools I use </strong></h2><br>
   
-  <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,js,ts,html,css,sass,tailwind,bootstrap,mui,react,next,redux,angular,nodejs,php,c,linux,regex,vscode,netlify,firebase,figma,babel,webpack,ai,ps,pr" alt="skills logos" /> <br>
    
   
