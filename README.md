@@ -20,11 +20,8 @@
 
 <h2></h2>
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-
 <div align="center">
-  <h2> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h2><br>
+  <h2> <strong> 📚 Education </strong></h2><br>
   <img src="https://www.seedeuproject.eu/wp-content/uploads/2021/10/POLITO-1024x470.jpg" width="500px" height="235px"/>
   <img src="https://0701.static.prezi.com/preview/v2/etrkoyr5gwcz5qqpyp4gci4y5t6jc3sachvcdoaizecfr3dnitcq_3_0.png" width="500px" height="235px"/>
 </div></br>
@@ -32,12 +29,6 @@
 <h2></h2>
 
 <div align="center">
-  <img src="./assets/pixels-neon.gif" alt="pixel guy using computer" width="100%" /><br>
-</div>
-
-<div align="center">
-  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
   
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
   
@@ -49,9 +40,6 @@
 
 <h2></h2>
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-  
 <br>
 
 </br>
