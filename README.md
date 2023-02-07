@@ -16,7 +16,7 @@
 
 * ☕ Interest: Science, Math, Music, Photography and Coding. <br><br><br>
 
-* :octocat: Hobbies: Eat, Sleep, Code, Repeat <br><br>
+* :octocat: Motto: Eat, Sleep, Code, Repeat <br><br>
 
 <h2></h2>
 
