@@ -30,7 +30,7 @@
 
 <div align="center">
   <h2> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h2><br>
-  <img src="https://www.seedeuproject.eu/wp-content/uploads/2021/10/POLITO-1024x470.jpg"/>
+  <img src="https://www.seedeuproject.eu/wp-content/uploads/2021/10/POLITO-1024x470.jpg" width="500px" height="235px"/>
   <img src="https://0701.static.prezi.com/preview/v2/etrkoyr5gwcz5qqpyp4gci4y5t6jc3sachvcdoaizecfr3dnitcq_3_0.png"/>
 </div></br>
 
