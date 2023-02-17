@@ -16,7 +16,7 @@
 
 * ☕ Interest: Science, Math, Music, Photography and Coding. <br><br><br>
 
-* :octocat: Motto: eat( ); sleep( ); code( ); repeat( ); <br><br>
+* :octocat: Motto: eat( );   sleep( );   code( );   repeat( ); <br><br>
 
 <h2></h2>
 
