@@ -14,7 +14,7 @@
 
 * 🐾 I’m looking to network and make friends here! <br><br><br>
 
-* ☕ Interest: Science, Math, Music, Games, Photography and Coding. <br><br><br>
+* ☕ Interest: Science, Math, Music, Gaming, F1, Photography and Coding. <br><br><br>
 
 * :octocat: Motto: eat( );   sleep( );   code( );   repeat( ); <br><br>
 
