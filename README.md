@@ -10,7 +10,7 @@
 
 <h2 align="center"> Passionate about coding! </h2><br>
 
-* 👨‍💻 I'm Giampietro(KelosDev)👋, a front-end developer. <br><br><br>
+* 👨‍💻 I'm Giampietro👋, a front-end developer. <br><br><br>
 
 * 🐾 I’m looking to network and make friends here! <br><br><br>
 
