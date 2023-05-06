@@ -6,4 +6,4 @@
 
 <h2></h2>
 
-<h2 align="center"> :octocat: 👨‍💻 Motto: eat( );   sleep( );   code( );   repeat( ); </h2><br>
+<h2 align="center"> :octocat: eat( );   sleep( );   code( );   repeat( ); </h2><br>
