@@ -6,4 +6,4 @@
 
 <h2></h2>
 
-<h2 align="center">eat( ) <br/>  sleep( ) <br/>  code( ) <br/>  repeat( ) <br/></h2><br>
+<h2 align="center">eat ( ) <br/>  sleep ( ) <br/>  code ( ) <br/>  repeat ( ) <br/></h2><br>
