@@ -6,14 +6,4 @@
 
 <h2></h2>
 
-<h2 align="center"> Passionate about coding! </h2><br>
-
-* 👨‍💻 I'm Giampietro👋, a front-end developer. <br><br><br>
-
-* 🐾 I’m looking to network and make friends here! <br><br><br>
-
-* ☕ Interest: Science, Math, Music, Gaming, F1, Photography and Coding. <br><br><br>
-
-* :octocat: Motto: eat( );   sleep( );   code( );   repeat( ); <br><br>
-
-
+<h2 align="center"> :octocat: 👨‍💻 Motto: eat( );   sleep( );   code( );   repeat( ); </h2><br>
